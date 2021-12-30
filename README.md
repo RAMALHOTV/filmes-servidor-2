@@ -4,15 +4,20 @@
  
 ################################################################################# Informações da Lista
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 30/10/2021 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 30/10/2021
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos!
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
  
 
 #EXTINF:-1 tvg-id="" tvg-name="Raya e o Último Dragão (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXrb84zJidCefyhTWHwo4yCDvwz.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Raya e o Último Dragão (2021)
@@ -1863,6 +1868,50 @@ http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96856.mp4
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96857.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fogo Contra Fogo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="FILMES ADICIONADOS RECENTEMENTE",Fogo Contra Fogo
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Banda Flashback" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Banda Flashback
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Joaozinho e banda sete" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Joaozinho e banda sete
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Calcinha Preta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Calcinha Preta
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mara Pavanelly 18 anos de carreira completa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Mara Pavanelly 18 anos de carreira completa
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Campeões Do Forro Varias Bandas Só Melhores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Campeões Do Forro Varias Bandas Só Melhores
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divas do brega mais ouvidas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Divas do brega mais ouvidas
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Festa das Divas do Brega" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Festa das Divas do Brega
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batista Lima ao vivo em salgueiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Batista Lima ao vivo em salgueiro
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cristiano Araujo - Efeitos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Cristiano Araujo - Efeitos
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Festival Sertanejo as melhores do sertanejo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Festival Sertanejo as melhores do sertanejo
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Limão com Mel Acustico In Concert" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Limão com Mel Acustico In Concert
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Limao com Mel Batista Lima 20 Anos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Limao com Mel Batista Lima 20 Anos
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malla 10 anos -Intimista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Malla 10 anos -Intimista
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulheres do Sertanejo 2018 TOP Sertanejo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Mulheres do Sertanejo 2018 TOP Sertanejo
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Festival Sertanejo 2018 So As Mais Tocadas So As Melhores de Julho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Festival Sertanejo 2018 So As Mais Tocadas So As Melhores de Julho
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wesley Safadao - Sao Joao da Capita." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Wesley Safadao - Sao Joao da Capita.
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fernando e Sorocaba - Country in park hd" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Fernando e Sorocaba - Country in park hd
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gustavo Mioto - Garota vip" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Gustavo Mioto - Garota vip
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henrique e Juliano - No salvador fest" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Henrique e Juliano - No salvador fest
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leo Magalhaes - Ao vivo em goiania completo." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Leo Magalhaes - Ao vivo em goiania completo.
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa - Ao vivo em barreto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Maiara e Maraisa - Ao vivo em barreto
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonca - Pecuaria de goiania" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="SHOWS/DVD",Marilia Mendonca - Pecuaria de goiania
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96880.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fullmetal Alchemist" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="FILMES ADICIONADOS RECENTEMENTE",Fullmetal Alchemist
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/96881.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fúria em Alto Mar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NzrW8Cf3Hi4ub78MkgFNTlKRsi.jpg" group-title="FILMES ADICIONADOS RECENTEMENTE",Fúria em Alto Mar (2019)
@@ -2105,6 +2154,86 @@ http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97080.mp4
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97081.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Os Vingadores: The Avengers (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="FILMES AÇÃO",Os Vingadores: The Avengers (2012)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Edson Lima e  Batista Lima na festa do milho Passira pé" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="FILMES ADICIONADOS RECENTEMENTE",Edson Lima e  Batista Lima na festa do milho Passira pé
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Melhor do Sertanejo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",O Melhor do Sertanejo
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Melhores Sertanejas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",As Melhores Sertanejas
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baile do cafajeste completo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Baile do cafajeste completo
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Show completo de Márcia Fellipe no aniversário de Curionópolis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Show completo de Márcia Fellipe no aniversário de Curionópolis
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Simone & Simaria - Pocket Show Aperte O Play" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Simone & Simaria - Pocket Show Aperte O Play
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima (Vídeo Completo Oficial)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Gusttavo Lima (Vídeo Completo Oficial)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batista Lima ao vivo em caicó RN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Batista Lima ao vivo em caicó RN
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BATISTA LIMA AO VIVO EM OLINDA NA PORTO MUSIC" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",BATISTA LIMA AO VIVO EM OLINDA NA PORTO MUSIC
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Melhor do Sertanejo 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",O Melhor do Sertanejo 2019
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Joãozinho & Banda Sete - Esperança Motofest 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Joãozinho & Banda Sete - Esperança Motofest 2014
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Melhores Sertanejas 2019 - YouTube" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",As Melhores Sertanejas 2019 - YouTube
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Limão com Mel - Ao Vivo Em Tupanatinga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Limão com Mel - Ao Vivo Em Tupanatinga
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Melhores Músicas Do Sertanejo Universitário 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",As Melhores Músicas Do Sertanejo Universitário 2019
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MariÌlia Mendonça e Henrique e Juliano Ao Vivo 2." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",MariÌlia Mendonça e Henrique e Juliano Ao Vivo 2.
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VILLAMIX LISBOA 2019  JORGE E MATEUS (COMPLETO)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",VILLAMIX LISBOA 2019  JORGE E MATEUS (COMPLETO)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VILLAMIX LISBOA 2019  LUAN SANTANA (NOVO REPERTÓRIO)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",VILLAMIX LISBOA 2019  LUAN SANTANA (NOVO REPERTÓRIO)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os 30 Vídeo Clipes + Visto." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Os 30 Vídeo Clipes + Visto.
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buteco da Sofrência - O Melhor do Sertanejo 2019 (Janeiro)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Buteco da Sofrência - O Melhor do Sertanejo 2019 (Janeiro)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batista Lima aovivo em caicó RN." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Batista Lima aovivo em caicó RN.
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Banda Encantus - Ao Vivo Em Gurjão PB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Banda Encantus - Ao Vivo Em Gurjão PB
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Banda Encantus - Ao Vivo Em Itabaiana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Banda Encantus - Ao Vivo Em Itabaiana
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BARRETOS 2019  FELIPE ARAÚJO (COMPLETO)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",BARRETOS 2019  FELIPE ARAÚJO (COMPLETO)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batista Lima no São João de Caruaru" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Batista Lima no São João de Caruaru
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BANDA ENCANTUS - PAIXÃO QUE NÃO PARA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",BANDA ENCANTUS - PAIXÃO QUE NÃO PARA
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DVD Cabaré do Totó VOL 01 - EXCLUSIVO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",DVD Cabaré do Totó VOL 01 - EXCLUSIVO
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FESTIVAL SERTANEJO 2019 - As Melhores Sertanejas 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",FESTIVAL SERTANEJO 2019 - As Melhores Sertanejas 2019
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Sertanejo 2017 - Participações Jorge e Mateus HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Meu Sertanejo 2017 - Participações Jorge e Mateus HD
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Especial Zé Neto e Cristiano e Henrique e Juliano Ao Vivo 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Especial Zé Neto e Cristiano e Henrique e Juliano Ao Vivo 2019
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Felipe Araújo no Villa Country Showlivre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Felipe Araújo no Villa Country Showlivre
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Edson Lima e Gatinha Manhosa 2019 COMPLETO - ONTEM, HOJE E SEMPRE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Edson Lima e Gatinha Manhosa 2019 COMPLETO - ONTEM, HOJE E SEMPRE
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marília Mendonça Show 2019 ( Ao Vivo )" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Marília Mendonça Show 2019 ( Ao Vivo )
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mesa da Sofrência - Conversa de Bar (Show Completo 2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Mesa da Sofrência - Conversa de Bar (Show Completo 2019)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Michele Andrade   Festival de Inverno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Michele Andrade   Festival de Inverno
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="02  Os melhores Clipes de Forró 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",02  Os melhores Clipes de Forró 2016
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Limão Com Mel Grandes Sucessos ( Inesqueciveis )." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Limão Com Mel Grandes Sucessos ( Inesqueciveis ).
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batista Lima no São João de Caruaru" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Batista Lima no São João de Caruaru
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima e Jorge e Mateus Show Ao Vivo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Gusttavo Lima e Jorge e Mateus Show Ao Vivo
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LIMÃO COM MEL FESTA DE SÃO SEBASTIÃO 2019 TRANSMISSÃO AO VIVO  RADICAL FM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",LIMÃO COM MEL FESTA DE SÃO SEBASTIÃO 2019 TRANSMISSÃO AO VIVO  RADICAL FM
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Forró da MALLA DVD completo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="SHOWS/DVD",Forró da MALLA DVD completo
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97122.mp4
 #EXTINF:-1 tvg-id="" tvg-name="No Limite do Amanhã (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7S6cjpi1p4t5rbpJMrs4QnK9yUT.jpg" group-title="FILMES AÇÃO",No Limite do Amanhã (2014)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97123.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima - O Melhor do Sertanejo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7S6cjpi1p4t5rbpJMrs4QnK9yUT.jpg" group-title="SHOWS/DVD",Gusttavo Lima - O Melhor do Sertanejo
@@ -2353,15 +2482,15 @@ http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97247.mp4
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97248.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Contra Ataque (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXEwfIfaJfB2CrQ7JKjjuJjWeis.jpg" group-title="FILMES ADICIONADOS RECENTEMENTE",Contra Ataque (2020)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esquadrão 303 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXEwfIfaJfB2CrQ7JKjjuJjWeis.jpg" group-title="FILMES ADICIONADOS RECENTEMENTE",Esquadrão 303 (2018)
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão 303 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVzgZBoXsC3rm7IoY02Tmf3Ku5Z.jpg" group-title="FILMES GUERRA",Esquadrão 303 (2018)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla: No Limiar da Batalha (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXEwfIfaJfB2CrQ7JKjjuJjWeis.jpg" group-title="FILMES ADICIONADOS RECENTEMENTE",Godzilla: No Limiar da Batalha (2018)
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla: No Limiar da Batalha (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVzgZBoXsC3rm7IoY02Tmf3Ku5Z.jpg" group-title="FILMES ADICIONADOS RECENTEMENTE",Godzilla: No Limiar da Batalha (2018)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla - O Devorador De Planetas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXEwfIfaJfB2CrQ7JKjjuJjWeis.jpg" group-title="FILMES ADICIONADOS RECENTEMENTE",Godzilla - O Devorador De Planetas (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla - O Devorador De Planetas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVzgZBoXsC3rm7IoY02Tmf3Ku5Z.jpg" group-title="FILMES ADICIONADOS RECENTEMENTE",Godzilla - O Devorador De Planetas (2019)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jovens Assassinos (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXEwfIfaJfB2CrQ7JKjjuJjWeis.jpg" group-title="FILMES ADICIONADOS RECENTEMENTE",Jovens Assassinos (1985)
+#EXTINF:-1 tvg-id="" tvg-name="Jovens Assassinos (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVzgZBoXsC3rm7IoY02Tmf3Ku5Z.jpg" group-title="FILMES ADICIONADOS RECENTEMENTE",Jovens Assassinos (1985)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão Pijamas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXEwfIfaJfB2CrQ7JKjjuJjWeis.jpg" group-title="FILMES ADICIONADOS RECENTEMENTE",Missão Pijamas (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Missão Pijamas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVzgZBoXsC3rm7IoY02Tmf3Ku5Z.jpg" group-title="FILMES ADICIONADOS RECENTEMENTE",Missão Pijamas (2020)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97254.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Grande Muralha (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVcQ5fk2HEZJk2guPVYTxSmP0dX.jpg" group-title="FILMES AÇÃO",A Grande Muralha (2016)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97255.mp4
@@ -2954,7 +3083,7 @@ http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97549.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sem Perdão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGnRRS3tpDeBeAtqf4YzaYdk3ky.jpg" group-title="FILMES DRAMA",Sem Perdão (2018)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97550.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Soldado Universal 4: Juízo Final (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Dqozo0zRiQ7pSJYnFKux2Js5qV.jpg" group-title="FILMES AÇÃO",Soldado Universal 4: Juízo Final (2012)
-http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97551.mp4
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97551.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Somos Tão Jovens (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxfcBlYe9mw4D5dJOaMweva1Unb.jpg" group-title="FILMES DRAMA",Somos Tão Jovens (2013)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/97552.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tarzan (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ce4mU4yyubjP1uXcz48fMndCZni.jpg" group-title="FILMES ANIMAÇÃO",Tarzan (1999)
@@ -4101,8 +4230,6 @@ http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/122874.mp4
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/122875.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Em Batalha (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Foi2Via2fIACRJMB4934D5MP3j.jpg" group-title="FILMES AÇÃO",Em Batalha (2020)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/122876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Poderoso Chefinho 2: Negócios da Família (2021) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olnWkuNwCDHPYTkLKktUnFLyHFg.jpg" group-title="FILMES LEGENDADOS",O Poderoso Chefinho 2: Negócios da Família (2021) LEG
-http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/122877.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lendas do Crime (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIlkCztaqGtGOBSrFHnHG0qCZmU.jpg" group-title="FILMES AÇÃO",Lendas do Crime (2015)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/122878.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Monster Hunter: Legends of the Guild (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fctSbleL7ozVcGyC163nPv4arW1.jpg" group-title="FILMES ANIMAÇÃO",Monster Hunter: Legends of the Guild (2021)
@@ -4597,10 +4724,6 @@ http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125524.mp4
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125525.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Último Samurai (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybt7v6M74KwnffPOB88VDCwc5Fw.jpg" group-title="FILMES AÇÃO",O Último Samurai (2003)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Sem Tempo para Morrer (2021) - CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpD2jkeaSZvPbgpcpqhv765R8PF.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",007: Sem Tempo para Morrer (2021) - CAM
-http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125538.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Venom: Tempo de Carnificina (2021) - CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz7xJLowO4x0BpcB1IJb9uIXgrq.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Venom: Tempo de Carnificina (2021) - CAM
-http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125540.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Heróis da Galáxia: Ratchet e Clank (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzOjwElhT20l0bl2KzTqUMWCZ41.jpg" group-title="FILMES AVENTURA",Heróis da Galáxia: Ratchet e Clank (2016)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125543.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Colina Escarlate (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blDoxeetdq1n9n9RbXCoNIV3hzV.jpg" group-title="FILMES TERROR",A Colina Escarlate (2015)
@@ -4755,8 +4878,6 @@ http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125618.mp4
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125619.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Maligno (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Maligno (2021)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125620.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tempo (2021) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czVBkHRaZu8rOnCNTd0t7EHYj97.jpg" group-title="FILMES LEGENDADOS",Tempo (2021) LEG
-http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125621.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dupla Explosiva 2 - E a Primeira-Dama do Crime (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXjqdCBFg4zjUnc1MbL55hlQmm0.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Dupla Explosiva 2 - E a Primeira-Dama do Crime (2021)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125622.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Madame X (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxwpJ6LsYesKJjVA2HRnZeo8OsQ.jpg" group-title="FILMES LEGENDADOS",Madame X (2021)
@@ -4813,8 +4934,6 @@ http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125746.mp4
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125753.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Herói de Dois Mundos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wA5DBbGpWOI98gjsg0g6ATVJHFU.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Herói de Dois Mundos (2021)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cry Macho: O Caminho para Redenção (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ei16H5IuCVt9pHYdQMkxOXeIkbp.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Cry Macho: O Caminho para Redenção (2021)
-http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125755.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dr. Dolittle 2 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mznxoYMKFOmJt7TOn12XHy4YiH1.jpg" group-title="FILMES COMÉDIA",Dr. Dolittle 2 (2001)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125756.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Duna (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9E9W77HS8zEQvsrpz5aEUTKnvD.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Duna (2021)
@@ -4829,3 +4948,297 @@ http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125760.mp4
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125761.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hypnotic (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IFj6WUmL1MqYPLGct0gsdAA7Wm.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Hypnotic (2021)
 http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tempo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czVBkHRaZu8rOnCNTd0t7EHYj97.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Tempo (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Exército de Ladrões: Invasão da Europa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Exército de Ladrões: Invasão da Europa (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina: O Filme (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56V3xa8ymXzOQLFGsiU9T1sDmfI.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Patrulha Canina: O Filme (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingança & Castigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/su9WzL7lwUZPhjH6eZByAYFx2US.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Vingança & Castigo (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marighella (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqHLyxKGhlGe1S2S9X8hragmNQl.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Marighella (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Angry Birds 2: O Filme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMqAjEyj234escPleCthcmh84ka.jpg" group-title="FILMES ANIMAÇÃO",Angry Birds 2: O Filme (2019)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eternos (2021) (Cinema)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDHOutMxLMgComnVhUK0Xfwunu5.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Eternos (2021) (Cinema)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amina (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gII53HAH7UA1yx189vROMzWA5ib.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Amina (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Artista e o Ladrão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYF9moeeICO3TWiPOuyd8ootO8D.jpg" group-title="FILMES DOCUMENTÁRIOS",A Artista e o Ladrão (2020)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Finch (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Finch (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shang-Chi e a Lenda dos Dez Anéis (2021) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArrOBeio968bUuUOtEpKa1teIh4.jpg" group-title="FILMES LEGENDADOS",Shang-Chi e a Lenda dos Dez Anéis (2021) LEG
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Poderoso Chefinho 2: Negócios da Família (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p033k6k8V9USI0TWZavIxoYzsGi.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",O Poderoso Chefinho 2: Negócios da Família (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Prisioneiros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uk9GedoTYlnKnbruXPArU09F8oT.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",7 Prisioneiros (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Deep House (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52E0LGcMKHOO91P4j6hdHKVwITP.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",The Deep House (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/125944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shang-Chi e a Lenda dos Dez Anéis (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArrOBeio968bUuUOtEpKa1teIh4.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Shang-Chi e a Lenda dos Dez Anéis (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alerta Vermelho (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9RnTxnyN8d9ypBp84LwZ2O8Q3S.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Alerta Vermelho (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esqueceram de Mim no Lar, Doce Lar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exMwWR4b80r6V6MJKtTnmQ6SseO.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Esqueceram de Mim no Lar, Doce Lar (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matar ou Morrer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DdUiTz2K70KiETscaHTyiYvMv8.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Matar ou Morrer (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWAatef80X3zooIBQN0Y4tQCM1K.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Spin (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cantando de Galo: O Resgate dos Ovinhos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KPVw3cVSyLq5B00Cik5ux3Iczy.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Cantando de Galo: O Resgate dos Ovinhos (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Match Surpresa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VoTb0s7nbCeotnDU27hBk9Olt9.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Um Match Surpresa (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Efeito Flashback (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92OIFItcf1XN7Z3KspY1mpamQK3.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Efeito Flashback (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Tiros e Beijos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ylyVg32Mt2zdOJCECG1voYny90.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Entre Tiros e Beijos (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Identidade (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4tYUT1oSWOP6XKZBoclPAG96KP.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Identidade (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apex (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cobRV6hAj8h7dRU4WZ3dkGaRQv2.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Apex (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Para Sempre Felicidade (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPizWp78D0Rt0q1G7ujYmjmfhL7.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Para Sempre Felicidade (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="V/H/S/94 (2021) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fSogEkqDfJQTuGHsTFloQz3Tw8.jpg" group-title="FILMES LEGENDADOS",V/H/S/94 (2021) LEG
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conspiração Implacável (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlXenN6jjgbsIyEJxBjkfkEU0q8.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Conspiração Implacável (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo Perigoso - O Filme (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49vHdPwKsAMhAfhrwaKdFfcXM7S.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Jogo Perigoso - O Filme (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Noel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOkrJgY9oHl0FMkR8VqOgYEmp7f.jpg" group-title="FILMES INFANTIL",A Família Noel (2020)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Labirinto (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5zBj7JZIxBYscYjyOap7TpU2Co.jpg" group-title="FILMES TERROR",O Labirinto (2019)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tormento (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdTIufUTn3846QxSRXWFrFZaWZ1.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Tormento (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Fim de Semana Prolongado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiqc31USBF9k0RpytlcMkPmD5tv.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Um Fim de Semana Prolongado (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Calouro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ul7iFSvhCyklMJmrhv49AEZEwr.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",O Calouro (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. Dolittle (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g84Os8iaDJNs51oNo1VtATGpbOV.jpg" group-title="FILMES COMÉDIA",Dr. Dolittle (1998)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. Dolittle 3 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spe1An4GHtbvUUoLFrmwoQvKyRD.jpg" group-title="FILMES COMÉDIA",Dr. Dolittle 3 (2006)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. Dolittle 4 (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eamhJLpdvTDNOwHuT9RmUKfpxF.jpg" group-title="FILMES COMÉDIA",Dr. Dolittle 4 (2008)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. Dolittle 5 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MttL2NNQzUeR7MnGd5JHjkcNrk.jpg" group-title="FILMES COMÉDIA",Dr. Dolittle 5 (2009)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Linha Reta (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/co43RxflrWS5OqdhdxYPaCPWiWk.jpg" group-title="FILMES DRAMA",Linha Reta (2019)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Candyman (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51Zvpg2kAIrzPdsQcIWojJhEhyS.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",A Lenda de Candyman (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa e a Plebeia: As Vilãs Também Amam (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eB1NVU8jGLF50eYfnehOD3dMrH.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",A Princesa e a Plebeia: As Vilãs Também Amam (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor sem medida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cCzz0tb8rmFw90gwM3idRud46X.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Amor sem medida (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invictus (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auIEpnjc5T8bPkb0Dnx6hLENycu.jpg" group-title="FILMES DRAMA",Invictus (2009)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Príncipe da Pérsia: As Areias do Tempo (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2XfLnlcXMujlQUPgIZAceLiD0Y.jpg" group-title="FILMES AVENTURA",Príncipe da Pérsia: As Areias do Tempo (2010)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miss Simpatia 2: Armada e Poderosa (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT0IQTGioZ026n2fmhbvmvCCZQ0.jpg" group-title="FILMES COMÉDIA",Miss Simpatia 2: Armada e Poderosa (2005)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morte Negra (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hispRPgwVRmN9ZfB4TBP1WRdhw8.jpg" group-title="FILMES AÇÃO",Morte Negra (2010)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik2fNhSATobUCukor4pKjT82Tvb.jpg" group-title="FILMES AÇÃO",O Grande Mestre 2 (2010)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3v06xJfco8hMDaMYOdUaxquh7hx.jpg" group-title="FILMES AÇÃO",O Grande Mestre (2008)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre 3 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24E7IAfZsmQIBVydzw994navV5b.jpg" group-title="FILMES AÇÃO",O Grande Mestre 3 (2015)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Justiceiro: Em Zona de Guerra (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Bsp4e8V1TiY5ZrvcJLDjqR3eNc.jpg" group-title="FILMES AÇÃO",O Justiceiro: Em Zona de Guerra (2008)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Troco (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amiu5aZfOo1QVvtOhID514hvk2H.jpg" group-title="FILMES AÇÃO",O Troco (1999)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Vôo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlWHFsqzRUWHk1G9T4wyfCVYLFI.jpg" group-title="FILMES DRAMA",O Vôo (2012)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O 13° Guerreiro (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkfJhVfaWFZSHJP4ApGE69YReEy.jpg" group-title="FILMES AVENTURA",O 13° Guerreiro (1999)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ataque (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNAF5z4W5NqV8hfkX5CfgPCX2Ur.jpg" group-title="FILMES AÇÃO",O Ataque (2013)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Colecionador de Ossos (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pi2rSb7eT8Uqw2viqyxe7gNgtSy.jpg" group-title="FILMES DRAMA",O Colecionador de Ossos (1999)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem com Punhos de Ferro (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KzlFgE0HYNmekGxSEg10RfDDq4.jpg" group-title="FILMES AÇÃO",O Homem com Punhos de Ferro (2012)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Justiceiro: Estrada do Caos (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YYxSzOq66PEOppuQ2XxWm0QRDf.jpg" group-title="FILMES AÇÃO",O Justiceiro: Estrada do Caos (2014)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Onda de Choque (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMNDf5zbvBUhLoOgpsHumj4s52v.jpg" group-title="FILMES AÇÃO",Onda de Choque (2017)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Novo Mundo (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLEp2J0FkzfuehEktVk8UT79w9A.jpg" group-title="FILMES DRAMA",Novo Mundo (2006)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Pacto dos Lobos (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQbiSxnxXkLtWRxmdBSjDGZjSHo.jpg" group-title="FILMES AVENTURA",O Pacto dos Lobos (2001)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Canhões de Navarone (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWOcOmSdKXKsjgf3FLR2asyK68r.jpg" group-title="FILMES GUERRA",Os Canhões de Navarone (1961)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo de Brokeback Mountain (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZ7fvWbPABjdU8JciIS9f9jCRCb.jpg" group-title="FILMES ROMANCE",O Segredo de Brokeback Mountain (2005)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sinal: Frequência do Medo (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNHZUOyVhpB7moA6MzUPudZWh0Y.jpg" group-title="FILMES FICCÃO CIENTÍFICA",O Sinal: Frequência do Medo (2014)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Último Batalhão (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48j8HSTJ40BXHnnu3dIBhiwGbll.jpg" group-title="FILMES GUERRA",O Último Batalhão (2001)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Último Caçador de Bruxas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vylKmK89uFG1bs70BBeJTbVm1Uu.jpg" group-title="FILMES AÇÃO",O Último Caçador de Bruxas (2015)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último dos Moicanos (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvC4Z4kO62V3vKD230V8jmOEzE7.jpg" group-title="FILMES AÇÃO",O Último dos Moicanos (1992)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pocahontas: O Encontro de Dois Mundos (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edIqnYPOW0gkTsX2CEFdqpHhQhz.jpg" group-title="FILMES ANIMAÇÃO",Pocahontas: O Encontro de Dois Mundos (1995)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Privacidade Hackeada (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20KWEm4IJ6M6IoE77NFaqwkkJpk.jpg" group-title="FILMES DOCUMENTÁRIOS",Privacidade Hackeada (2019)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quatro Amigas e um Jeans Viajante (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hko3QJ0NR7bjS73LVjcX1MKrIt5.jpg" group-title="FILMES COMÉDIA",Quatro Amigas e um Jeans Viajante (2005)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quatro Amigas e um Jeans Viajante 2 (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UefFbPLXtUNIwyUjT1Qy7KOoLl.jpg" group-title="FILMES AVENTURA",Quatro Amigas e um Jeans Viajante 2 (2008)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rede de Mentiras (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sfUe7HTMg6qyg9uxM9sHqYH62B.jpg" group-title="FILMES AÇÃO",Rede de Mentiras (2008)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Renegades (2017) Legendado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOxXNjObtmXk8n7hNDulDknqxB0.jpg" group-title="FILMES AÇÃO",Renegades (2017) Legendado
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha de Riddick (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfKnyehXOdFFKO1akcW7kdEKz82.jpg" group-title="FILMES AÇÃO",A Batalha de Riddick (2004)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robin Hood (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCzqyuZxvJ38E8DXMbW9q4qgUVa.jpg" group-title="FILMES AVENTURA",Robin Hood (2010)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rota de Fuga (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjjnSLigATq9NOEcMybQHnQhZ9p.jpg" group-title="FILMES AÇÃO",Rota de Fuga (2013)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rota de Fuga 2: Hades (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uYD4Ix66hOsvUVewoYQbuc51Hy.jpg" group-title="FILMES AÇÃO",Rota de Fuga 2: Hades (2018)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sexo Sem Compromisso (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvwUMAedTTXo8vzwO0lucDxke8S.jpg" group-title="FILMES COMÉDIA",Sexo Sem Compromisso (2011)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shaolin (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVbMwS1lDnOv3BTc6lJggVlqJc6.jpg" group-title="FILMES AÇÃO",Shaolin (2012)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Snoopy e Charlie Brown: Peanuts, O Filme (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnBbIL2gYex4aVomvZOg5ZGtOOa.jpg" group-title="FILMES AVENTURA",Snoopy e Charlie Brown: Peanuts, O Filme (2015)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sozinho com o Inimigo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npkXkDfAVieQF4L1FE7oYLIhjFX.jpg" group-title="FILMES AÇÃO",Sozinho com o Inimigo (2018)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spawn: O Soldado do Inferno (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/653tt7EeQZ2LqLMeiGApxkdsKB2.jpg" group-title="FILMES AÇÃO",Spawn: O Soldado do Inferno (1997)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Street Dance - Dois Mundos Um Sonho (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqWSenAtDQsWjMLVTMEDvcCtafU.jpg" group-title="FILMES DRAMA",Street Dance - Dois Mundos Um Sonho (2010)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Taxi Driver: Motorista de Táxi (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOi8s0WQZYlTDkWB46Z6p3ji5Fq.jpg" group-title="FILMES DRAMA",Taxi Driver: Motorista de Táxi (1976)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra Selvagem (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sAYFKKYCfG8WaGYjUT15viDzax.jpg" group-title="FILMES DRAMA",Terra Selvagem (2017)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tora! Tora! Tora! (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9noF9I4LL8OvpIARtifKEQ6d8lK.jpg" group-title="FILMES DRAMA",Tora! Tora! Tora! (1970)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Truque de Mestre: O 2º Ato (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uCUHxN5MD4vX6q1YEnpL6bQLiw.jpg" group-title="FILMES AÇÃO",Truque de Mestre: O 2º Ato (2016)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truque de Mestre (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZyC1mXEs13adcmU2NibCP0W5F6.jpg" group-title="FILMES AÇÃO",Truque de Mestre (2013)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="U-571 - A Batalha do Atlântico (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeUhRSrlFcXhsuUai2ozWH6rNnK.jpg" group-title="FILMES GUERRA",U-571 - A Batalha do Atlântico (2000)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Drink no Inferno (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfgvLGVKaebwM40N8F8DVSpKLUn.jpg" group-title="FILMES TERROR",Um Drink no Inferno (1996)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vida Bandida (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvoub6jlY68wvASvkLsuVFAtUX6.jpg" group-title="FILMES COMÉDIA",Vida Bandida (2001)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Visita ao Inferno (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpRSncUqvtyRJCLGHb00Y2vnliK.jpg" group-title="FILMES DOCUMENTÁRIOS",Visita ao Inferno (2016)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zona de Perigo (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfK8v9R0EuyqNUWsH6WZCmElStK.jpg" group-title="FILMES AÇÃO",Zona de Perigo (1993)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom: Tempo de Carnificina (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5UzYZquMwO9FVn15R2eK2itmHu.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Venom: Tempo de Carnificina (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Cores do Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKkfxvjnZstMmQCbolFDWREhxCX.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",As Cores do Amor (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chamada Explosiva (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEzHpdJKt5TVaXseAKcmIJkbhkB.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Chamada Explosiva (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="tick, tick...BOOM! (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAB3mWtSZ5yunwY0CI18gK5l1z9.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",tick, tick...BOOM! (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sob as Escadas de Paris (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anxzCaovrJ8OAYd1khUittaqzJd.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Sob as Escadas de Paris (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada da Vida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3m808k9exmLflh1ltiJZGv0HAD.jpg" group-title="FILMES COMÉDIA",Jornada da Vida (2019)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lar Doce Inferno (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpBzu5ekoaDlzr1I6LO5ertxJkn.jpg" group-title="FILMES DRAMA",Lar Doce Inferno (2015)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Friday (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOx9OwFjgXilKRWCQacXmp2rFLC.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Black Friday (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar - Versão Estendida (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg" group-title="FILMES AÇÃO",Avatar - Versão Estendida (2009)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sabiá Sabiazinha (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKIdlJbd17rrIm4oZzhXTbmqpon.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",A Sabiá Sabiazinha (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After: Depois do Desencontro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZwC4FW5rFvYa0gzZJIHQwLSgbz.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",After: Depois do Desencontro (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor a Três (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE7AeMCVl7zZ4LjrKWhltjNgwBu.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Amor a Três (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dna Assassino (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRPaauAhhzr1BJw1GBfkZzsDYGx.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Dna Assassino (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Proibido Amar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cD4uQM8oF2oEEn2mMuaImVvGkto.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",É Proibido Amar (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flummels: Extintos! (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqa3vQPN2jvxIIcfK287WhaJAh1.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Flummels: Extintos! (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Livrai-nos do Mal (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1PBqWmRrfLszd7gsO4AQjZwrvQ.jpg" group-title="FILMES TERROR",Livrai-nos do Mal (2015)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem é você, Charlie Brown? (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khaC503gF2X3Nuu5hq8Tdw3DZ50.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Quem é você, Charlie Brown? (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stillwater: Em Busca da Verdade (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPdmPwcIcmu0ugfKcdFtI3vmOJq.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Stillwater: Em Busca da Verdade (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zero e Uns (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUklycRTVya348M5dG7JyticAsW.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Zero e Uns (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Sem Tempo para Morrer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luE0KG1rWfUptbgNtlNtL5sihyd.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",007: Sem Tempo para Morrer (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garota da Moto (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYoWjGSW4XQRWwFDHf3kdMqtCLr.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Garota da Moto (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mimadinhos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itk5J9t9h9IKaRtZnF36kYBVvnw.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Mimadinhos (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Castelo para o Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqbD1Gztt7kUUUzJhztNbkRtzUd.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Um Castelo para o Natal (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Menino Chamado Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik7x3QS4LVfZPMV4lAIFtoh7ASS.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Um Menino Chamado Natal (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Duelo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhrzzNauB1PKrwnqVbLQODNNTJN.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",O Último Duelo (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Natal Cinco Estrelas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8Ty5eJU1f3IfkQaL65Kw3KiKb0.jpg" group-title="FILMES ROMANCE",Um Natal Cinco Estrelas (2020)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cry Macho: O Caminho para a Redenção (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ei16H5IuCVt9pHYdQMkxOXeIkbp.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Cry Macho: O Caminho para a Redenção (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Topo da Terra (2021)" tvg-logo="https://d1sygdf8atpyev.cloudfront.net/vodu/media/BR/img-viagem-ao-topo-da-terra.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Viagem ao Topo da Terra (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mickey e a História das Duas Bruxas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bR2hpbBvRHew1JW2YqEAPtNKGMt.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Mickey e a História das Duas Bruxas (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segredos nas Paredes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooxBEFf3eSCnExvgw5Hb8qnvbaS.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Segredos nas Paredes (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Serpente Verde (2021)" tvg-logo="https://images.static-bluray.com/products/20/117871_1_large.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",A Serpente Verde (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/126741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conto de Inverno (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WnBqixVgvgmJWmxoSWhsZ3NzSf.jpg" group-title="FILMES DRAMA",Conto de Inverno (1992)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Addams 2: Pé na Estrada (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ig0RMUyjiAw7hdCRsXYnOCKSucg.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",A Família Addams 2: Pé na Estrada (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imperdoável (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbHo7UFYihixl5goN2Ro5Zs15Cw.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Imperdoável (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: Sem Volta Para Casa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vVRYbIjDLMMwZJ2jo6enrdN76U.jpg" group-title="FILMES - GRAVADO NO CINEMA 2021",Homem-Aranha: Sem Volta Para Casa (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matrix: Resurrections (2021) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjpM7NNfI5memp40mwqF1zxlLfz.jpg" group-title="FILMES LEGENDADOS",Matrix: Resurrections (2021) LEG
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Surfistas Ninjas (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Xn0CBDAGADHc62MEGmFYcbhU1E.jpg" group-title="FILMES AVENTURA",Surfistas Ninjas (1993)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YvFMseLMzqmbFaFjo0Bt1W8j6B.jpg" group-title="FILMES AÇÃO",Soldado Universal (1992)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal 2 (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2w4QJF8uu7PknmKBhOLN1InKrhu.jpg" group-title="FILMES AÇÃO",Soldado Universal 2 (1998)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal 3: Regeneração (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUk8EAx72Taxb8ttio1ADFKppmF.jpg" group-title="FILMES AÇÃO",Soldado Universal 3: Regeneração (2009)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Priscilla, a Rainha do Deserto (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxdUVL4P8ARD8B8GHZQE0HIspvB.jpg" group-title="FILMES COMÉDIA",Priscilla, a Rainha do Deserto (1994)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Bem-Vindo a Raccoon City (2021) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2juEWrlen956bjp1Z8lEDw68aq.jpg" group-title="FILMES LEGENDADOS",Resident Evil: Bem-Vindo a Raccoon City (2021) LEG
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Olhe para Cima (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Não Olhe para Cima (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Fortaleza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYi00SLc8v92h5i4MoluCvIwLG1.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",A Fortaleza (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adeus, Borboleta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0OJcPxS4vX3oUlWscl1zWq6lrS.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Adeus, Borboleta (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apresentando os Ricardos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zh7btwM8px4991ZMl5k1NQUHaI.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Apresentando os Ricardos (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encanto (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Encanto (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="King Richard: Criando Campeãs (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQl0QS5P15vVzUcaP8rAqxbQ6Wp.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",King Richard: Criando Campeãs (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: O Hotel Mágico 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEUlxyFHZ838xnjWk1MrWeumVWw.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Luccas Neto em: O Hotel Mágico 2 (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Que Demais Pra Mim (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJqV17wSjaTLvI9czGQlP5sRgiA.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Mais Que Demais Pra Mim (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mistério na TV: Amigos Até a Morte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hs3fEyU4aLWJA0B5YtN2nRD5uvR.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Mistério na TV: Amigos Até a Morte (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fascinante Mundo dos Corais (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmlh6Tr5soTUcdYWudkxG6gkLZt.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",O Fascinante Mundo dos Corais (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hand of God: A Mão de Deus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1y0cr1X5LIcKxFnd5XjKaskcRi.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",The Hand of God: A Mão de Deus (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Brinde Ao Natal: Luzes da Cidade (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qzd2mRhJe5etP9KCsKGsCIHtxg.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Um Brinde Ao Natal: Luzes da Cidade (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Esposa de Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjTLVkjJ5fuGpTSNTOTrGYqFtMA.jpg" group-title=" LANÇAMENTOS 2021 - DUBLADOS",Uma Esposa de Natal (2021)
+http://gotecnologia.best:80/movie/GoBrVzPlay/VzPlayGoBr/127275.mp4
